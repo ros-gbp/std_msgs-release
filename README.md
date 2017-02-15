@@ -1,3 +1,26 @@
+## std_msgs (kinetic) - 0.5.11-0
+
+The packages in the `std_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic std_msgs` on `Wed, 15 Feb 2017 00:40:37 -0000`
+
+The `std_msgs` package was released.
+
+Version of package(s) in repository `std_msgs`:
+
+- upstream repository: git@github.com:ros/std_msgs.git
+- release repository: https://github.com/ros-gbp/std_msgs-release.git
+- rosdistro version: `0.5.10-0`
+- old version: `0.5.10-0`
+- new version: `0.5.11-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## std_msgs (indigo) - 0.5.10-0
 
 The packages in the `std_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo std_msgs` on `Thu, 10 Mar 2016 20:53:25 -0000`
