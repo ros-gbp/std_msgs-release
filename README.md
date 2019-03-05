@@ -1,3 +1,26 @@
+## std_msgs (melodic) - 0.5.12-0
+
+The packages in the `std_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic std_msgs` on `Tue, 05 Mar 2019 00:11:46 -0000`
+
+The `std_msgs` package was released.
+
+Version of package(s) in repository `std_msgs`:
+
+- upstream repository: git@github.com:ros/std_msgs.git
+- release repository: https://github.com/ros-gbp/std_msgs-release.git
+- rosdistro version: `0.5.11-0`
+- old version: `0.5.11-0`
+- new version: `0.5.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## std_msgs (melodic) - 0.5.11-0
 
 The packages in the `std_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic std_msgs` on `Mon, 29 Jan 2018 21:25:53 -0000`
