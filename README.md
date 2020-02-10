@@ -1,3 +1,26 @@
+## std_msgs (noetic) - 0.5.13-1
+
+The packages in the `std_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic std_msgs` on `Mon, 10 Feb 2020 23:45:46 -0000`
+
+The `std_msgs` package was released.
+
+Version of package(s) in repository `std_msgs`:
+
+- upstream repository: git@github.com:ros/std_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.13-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## std_msgs (melodic) - 0.5.12-0
 
 The packages in the `std_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic std_msgs` on `Tue, 05 Mar 2019 00:11:46 -0000`
